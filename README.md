@@ -1,6 +1,7 @@
 # ppt-creator
 [![Python 3.8](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![License](https://img.shields.io/github/license/AI4Finance-Foundation/fingpt.svg?color=brightgreen)
+
 Enough of boring way to manually create powerpoint, this ppt-creator, directly creates the powerpoints so you can easily make changes to them or finish it within powerpoint.
 It also have placeholders for images!, to make your powerpoint attractive.
 
